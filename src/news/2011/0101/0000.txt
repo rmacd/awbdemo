@@ -1,0 +1,35 @@
+A sample news article
+=====================
+Ronald MacDonald <ronald@rmacd.com>
+v1.0, Sat Jan 01 2011 00:00:00 GMT 2011
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quam purus,
+laoreet non fringilla vel, ultrices a orci. Phasellus metus dui, lacinia vitae
+feugiat in, bibendum eu nisi. Cras vel elit est, et viverra metus. Suspendisse
+sed quam vitae diam cursus placerat vitae quis massa. Mauris id orci massa, non
+fringilla orci. Ut nec felis id mauris imperdiet pharetra sagittis ac diam. Cum
+sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
+mus. Fusce imperdiet venenatis felis, vel semper dolor mollis ac.
+
+.The Image
+
+Maecenas ut cursus tellus. Maecenas vulputate dapibus erat sed consequat. Cras
+vitae nisl est, a bibendum massa. Praesent laoreet sollicitudin commodo.
+Curabitur metus erat, malesuada tincidunt dignissim in, sagittis in neque.
+Nullam et libero massa, in mollis quam. Nullam in enim eu est dapibus tempor.
+Sed mattis, metus ut blandit placerat, ligula elit vehicula felis, ut tincidunt
+enim quam pulvinar mauris. Suspendisse pharetra lorem in neque hendrerit
+adipiscing. Sed mi mi, dignissim non euismod nec, porta ac metus. Proin quis
+sapien eu enim volutpat aliquet eget non purus. Vivamus accumsan risus eu nisi
+dictum non congue enim viverra. Fusce dapibus, magna ut elementum tempor, est
+velit rutrum justo, sit amet dapibus nunc augue quis mi. Vestibulum dapibus
+porttitor magna in vulputate. Nam adipiscing eros a velit convallis mattis.
+
+Curabitur elementum viverra massa, vel dapibus erat bibendum non. Duis iaculis
+cursus placerat. Ut posuere semper urna, nec scelerisque magna vulputate eu. Sed
+at lectus nec felis varius volutpat. Vivamus lobortis luctus justo, eu cursus
+ante convallis et. Sed lobortis turpis ac arcu molestie adipiscing. Suspendisse
+at molestie mi. Quisque scelerisque facilisis congue. Praesent ac sem et libero
+dapibus consequat quis vel tellus. Curabitur mollis lobortis nisl, ac mollis
+neque fringilla ultricies. Vivamus non eleifend orci. Cras eu turpis lorem, ut
+sagittis turpis.

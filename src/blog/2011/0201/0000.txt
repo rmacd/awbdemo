@@ -1,0 +1,67 @@
+Hello again!
+============
+Ronald MacDonald <ronald@rmacd.com> 
+v1.0, Tue Feb 01 00:00:00 GMT 2011
+
+[partintro]
+.Introduction
+--
+This is where I'd tend to stick an introduction. I can stylise this according to 
+the layouts defined in +/css/layout.css+ (just add a couple of rules).
+--
+
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
+himenaeos. Vivamus elementum ipsum nec turpis fringilla in fringilla ligula
+iaculis. Fusce vulputate ligula ac quam vehicula consectetur.
+
+Nunc eleifend mollis suscipit. Sed placerat, nisi nec egestas viverra, nisl
+neque sodales ante, non condimentum orci ipsum vitae massa. Praesent sagittis
+risus quis lorem suscipit a feugiat mi condimentum. Fusce pulvinar consequat
+odio ut ultrices. Nulla pulvinar sapien tortor. Suspendisse potenti. Nunc
+accumsan gravida massa, ut luctus lacus ornare sit amet.
+
+
+anchor:x1[]
+
+Title (without anchor)
+----------------------
+
+- In fringilla libero dapibus quam ornare adipiscing.
+
+- Fusce at augue quis nibh imperdiet lacinia.
+
+- Etiam non lorem cursus lectus semper euismod.
+
+- Ut egestas facilisis augue, nec aliquet neque vulputate ut.
+
+- Aenean tincidunt mattis mauris, id tempus elit imperdiet vitae.
+
+- Nulla vehicula diam ultrices lorem vestibulum dapibus.
+
+
+Subtitle
+~~~~~~~~
+
+[NOTE] 
+Nunc justo sem, faucibus at adipiscing a, tempor nec mauris. Suspendisse
+tincidunt lacinia lectus, id blandit massa tincidunt nec. Maecenas ac interdum
+augue. Sed elementum metus sed mauris malesuada porta.
+
+Curabitur elementum viverra massa, vel dapibus erat bibendum non. Duis iaculis
+cursus placerat. Ut posuere semper urna, nec scelerisque magna vulputate eu. Sed
+at lectus nec felis varius volutpat. Vivamus lobortis luctus justo, eu cursus
+ante convallis et. Sed lobortis turpis ac arcu molestie adipiscing:
+
+----------------------------------------------------------------------
+Suspendisse at molestie mi {
+	Quisque scelerisque facilisis congue. 
+	=> Praesent ac sem et libero dapibus consequat quis vel tellus. 
+}
+----------------------------------------------------------------------
+
+Donec nec dolor _volutpat sapien_ rutrum faucibus. Sed accumsan, quam in dictum
+consequat, turpis lectus vestibulum est, volutpat volutpat turpis dui eget ante.
+In ultrices lacus ut erat pretium vitae tempus dolor fermentum. Etiam ultrices,
+magna eget semper auctor, purus dui mattis orci, vel malesuada est nulla ac mi.
+Aliquam erat volutpat. *Morbi fringilla libero id odio pretium vulputate.* Etiam
+ut odio urna.

@@ -1,0 +1,22 @@
+Welcome!
+========
+
+Here's the front page of your AWB-based web site. You can edit this page in your
++/src/index.txt+ file.
+
+You could put anything in here, there are some ideas on the
+link:http://awb.sourceforge.net/doc/commands.html[AWB web site]:
+
+You could also add some images.
+
+You can download the source of this demo site from this server:
+
+* link:/awbdemo-all.gz[awbdemo-all.gz] (74kB)
+* link:/awbdemo-all.zip[awbdemo-all.zip] (90kB)
+
+Reference
+---------
+
+* link:http://powerman.name/doc/asciidoc[The AsciiDoc Cheat Sheet]
+* link:http://www.methods.co.nz/asciidoc/userguide.html[AsciiDoc User Guide]
+

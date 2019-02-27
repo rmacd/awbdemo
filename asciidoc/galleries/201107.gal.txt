@@ -1,0 +1,72 @@
+++++++++++++++++
+<head>
+<title>example.com :: [room]</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<link rel="stylesheet" type="text/css" href="../css/flask.css">
+<link rel="stylesheet" type="text/css" href="../css/layout.css">
+<script src="../js/toc.js" type="text/javascript">
+</script>
+<link rel="copyright" href="../copyright.html">
+<link rel="icon" type="image/png" href="../img/favicon.png" />
+<?insert meta description html?>
+<meta name="generator" content="AsciiDoc Website Builder (using AsciiDoc {asciidoc-version})">
+<meta name="author" content="The Author">
+<meta name="copyright" content="&copy; blah"> 
+</head>
+<body>
+<div id="nav">
+//<center><img src="../img/awblogo.png" alt="awb logo"></center>
+++++++++++++++++
+
+Navigation
+----------
+
+* link:../[home]
+* link:../howto[howto]
+* link:../code[code]
+* link:../music[music]
+* link:../hosting[hosting]
+* link:../misc[misc]
+
+//CURRENT: Home galleries
+
+++++++++++++++++
+
+</div>
+<div id="content">
+
+++++++++++++++++
+
+// Push titles down one level.
+:leveloffset: 1
+
+[room]
+title: The title of the room.
+intro: Some text introducing the room.
+
+[wap54.jpg]
+title: The title of the photo.
+caption: A caption for the photo.
+
+// Return to normal title levels.
+:leveloffset: 0
+
+++++++++++++++++
+
+</div>
+<div id="foot">
+
+++++++++++++++++
+
+Updated Friday, October 28 2011
+
+Contact: link:mailto:admin@example.com[Admin]
+
+++++++++++++++++ 
+
+</div> 
+
+<!-- page-specific JS etc can go here -->
+
+</body>
+++++++++++++++++

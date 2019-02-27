@@ -1,0 +1,27 @@
+My First Post
+=============
+Ronald MacDonald <ronald@rmacd.com>
+Fri Jan 01 00:00:00 GMT 2010
+
+Let's create _some text_!
+-------------------------
+
+Suspendisse at molestie mi. Quisque scelerisque facilisis congue. Praesent ac
+sem et libero dapibus consequat quis vel tellus. Curabitur mollis lobortis nisl,
+ac mollis neque fringilla ultricies. Vivamus non eleifend orci. Cras eu turpis
+lorem, ut sagittis turpis.
+
+.How about a list or two?
+
+ . Maecenas vulputate dapibus erat sed consequat. 
+ . Cras vitae nisl est, a bibendum massa. 
+ . Praesent laoreet sollicitudin commodo. 
+
+[NOTE]
+Curabitur metus erat, malesuada tincidunt dignissim in, sagittis in neque.
+
+[start="4"]
+ . Nullam et libero massa, in mollis quam. 
+
+You know how the rest of this goes.
+

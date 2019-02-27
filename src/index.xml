@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+
+<article lang="en">
+<articleinfo>
+    <title>Welcome!</title>
+</articleinfo>
+<simpara>Here&#8217;s the front page of your AWB-based web site. You can edit this page in your
+<literal>/src/index.txt</literal> file.</simpara>
+<simpara>You could put anything in here, here&#8217;s some ideas (taken from the
+<ulink url="http://awb.sourceforge.net/doc/commands.html">AWB web site</ulink>):</simpara>
+<screen>&lt;\?insert breadcrumbs?&gt;
+
+This would add your current path... though this would probably be more useful
+in the template.conf</screen>
+<simpara>You could also add some images.</simpara>
+<section id="_reference">
+<title>Reference</title>
+<itemizedlist>
+<listitem>
+<simpara>
+<ulink url="http://powerman.name/doc/asciidoc">The AsciiDoc Cheat Sheet</ulink>
+</simpara>
+</listitem>
+<listitem>
+<simpara>
+<ulink url="http://www.methods.co.nz/asciidoc/userguide.html">AsciiDoc User Guide</ulink>
+</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</article>

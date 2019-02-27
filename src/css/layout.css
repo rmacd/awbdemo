@@ -1,0 +1,102 @@
+#content-preview {
+	background: #ffffee;
+	border: 1px solid silver;
+	padding: 0.5em;
+}
+
+#foot {
+	margin-top:2em;
+}
+
+#foot .paragraph {
+	font-size:80%;
+	line-height:1em;
+	font-variant:small-caps;
+}
+
+#article{
+	margin-right:300px;
+}
+
+#nav {
+	background-color:#eee;
+	border-top: 1em #ddd solid;
+	height:3em;
+	line-height:1em;
+	border-bottom:1px dotted #004B6B;
+}
+
+#nav h2 {
+	display:none;
+}
+
+#content h2 {
+	/*clear:left;*/
+}
+
+#nav .ulist ul {
+	list-style-type:none;
+	display:inline;
+	/* For some reason, Firefox will barf unless we state the following: */
+	padding:0;
+}
+
+#nav .ulist ul li a {
+	float:left;
+	padding:1em 1em;
+}
+
+#nav .ulist ul li a:link, #nav .ulist ul li a:visited {
+	border-bottom:none;
+}
+
+#nav .ulist ul li a:hover, #nav .ulist ul li a:active {
+	border-bottom:1px solid #004B6B;
+}
+
+#nav .ulist ul li .current {
+	background-color:#ddd;
+}
+
+#recent {
+	width:250px;
+	float:right;
+	text-align:right;
+}
+
+#recent h3 {
+	margin-top:0em;
+	padding-top:.5em;
+	font-size:180%;
+	float:none;
+}
+
+#recent h3.title {
+	margin-top:-3em;
+}
+
+#recent ul {
+	list-style-type:none;
+}
+
+#recent ul li {
+	padding:0 0 .5em 0;
+}
+
+html body div#content div#article div.admonitionblock img.caption {
+	position:relative;
+	float:left;
+	vertical-align:top;
+	margin-left:-65px;
+}
+
+html body div#content div#article div.admonitionblock {
+	border-left:3px #DDD solid;
+	margin-left:55px;
+	min-height:48px;
+	padding-left:5px;
+}
+
+div#content div.ulist ul li {
+	color:#555;
+}

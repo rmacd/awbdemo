@@ -1,0 +1,23 @@
+What should I write?
+====================
+Ronald MacDonald <ronald@rmacd.com> 
+
+.Introduction
+--
+See how I didn't write the date in the source? Yet the date the page was 
+`updated' is maintained? That's because the date is extracted from the file 
+path!
+--
+
+== Title
+
+You can define titles both by underlining them or, as in this case, putting two 
+`equal' signs before the title header. In this example, I did the following:
+
+ == Title
+
+You could of course just do it as usual
+
+ Title
+ -----
+
